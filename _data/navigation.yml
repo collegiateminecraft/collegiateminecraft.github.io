@@ -1,0 +1,43 @@
+- name: News
+  link: /news/
+- name: About Us
+  link: \#
+  dropdown: 
+    - name: Who are we?
+      link: /about-us/who-are-we/
+    - name: Events
+      link: /about-us/events/
+    - name: Schools
+      link: /about-us/schools/
+    - name: Sponsors
+      link: /about-us/sponsors/
+- name: Server
+  link: \#
+  dropdown:
+    - name: How to join
+      link: /server/how-to-join/
+    - name: Rules
+      link: /server/rules/
+    - name: Lore
+      link: /server/lore/
+- name: Competitions
+  link: \#
+  dropdown:
+    - name: Summer Season
+      link: /competitions/summer-season/
+    - name: Fall Competitions
+      link: /competitions/fall-competitions/
+    - name: Winter Season
+      link: /competitions/winter-season/
+    - name: Spring Competitions
+      link: /competitions/spring-competitions/
+    - name: UHC
+      link: /competitions/uhc/
+    - name: Survival Games
+      link: /competitions/survival-games/
+- name: FAQ
+  link: /faq/
+- name: Donate
+  link: /donate/
+- name: Media
+  link: /media/
