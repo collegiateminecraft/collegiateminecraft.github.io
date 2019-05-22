@@ -1,7 +1,7 @@
 - name: News
   link: /news/
 - name: About Us
-  link: \#
+  link: ''
   dropdown: 
     - name: Who are we?
       link: /about-us/who-are-we/
@@ -12,7 +12,7 @@
     - name: Sponsors
       link: /about-us/sponsors/
 - name: Server
-  link: \#
+  link: ''
   dropdown:
     - name: How to join
       link: /server/how-to-join/
@@ -21,7 +21,7 @@
     - name: Lore
       link: /server/lore/
 - name: Competitions
-  link: \#
+  link: ''
   dropdown:
     - name: Summer Season
       link: /competitions/summer-season/
